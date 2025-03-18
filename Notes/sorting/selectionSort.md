@@ -1,5 +1,4 @@
 # Selection Sort Algorithm
-
 ## **Introduction**
 Selection Sort is an in-place sorting algorithm that divides the array into two parts:  
 - The sorted part (left side).
