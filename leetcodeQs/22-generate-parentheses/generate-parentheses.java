@@ -13,15 +13,10 @@ class Solution {
             return;
         }
         if(open>0){
-            String t1 = temp;
-            t1+="(";
-            solve(open-1,close,t1,res);
+            solve(open-1,close,temp+"(",res);
         }
         if(open<close){
-         String t2 = temp;
-            t2+=")";
-        
-            solve(open,close-1,t2,res);
+            solve(open,close-1,temp+")",res);
         }
         return;
     }
