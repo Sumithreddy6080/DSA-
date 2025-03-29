@@ -18,6 +18,7 @@
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Sumithreddy6080/DSA-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sumithreddy6080/DSA-/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Trie
 |  |
@@ -71,4 +72,5 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Sumithreddy6080/DSA-/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
