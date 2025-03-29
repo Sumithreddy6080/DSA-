@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0812-rotate-string) |
+| [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sumithreddy6080/DSA-/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
