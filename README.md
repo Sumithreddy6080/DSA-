@@ -18,6 +18,7 @@
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1764-maximum-repeating-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/1764-maximum-repeating-substring) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumithreddy6080/DSA-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sumithreddy6080/DSA-/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Trie
@@ -52,10 +53,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0812-rotate-string) |
+| [1764-maximum-repeating-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/1764-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [1764-maximum-repeating-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/1764-maximum-repeating-substring) |
 ## Math
 |  |
 | ------- |
