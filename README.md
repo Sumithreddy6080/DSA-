@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,4 +88,16 @@
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sumithreddy6080/DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
