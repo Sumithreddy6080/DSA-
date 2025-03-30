@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumithreddy6080/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0657-robot-return-to-origin](https://github.com/Sumithreddy6080/DSA-/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
@@ -78,4 +79,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumithreddy6080/DSA-/tree/master/1823-determine-if-string-halves-are-alike) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Sumithreddy6080/DSA-/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
