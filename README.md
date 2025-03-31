@@ -52,6 +52,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Sumithreddy6080/DSA-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Enumeration
 |  |
 | ------- |
