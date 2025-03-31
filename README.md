@@ -61,11 +61,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Sumithreddy6080/DSA-/tree/master/0070-climbing-stairs) |
 | [1764-maximum-repeating-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/1764-maximum-repeating-substring) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Sumithreddy6080/DSA-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
 ## Heap (Priority Queue)
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sumithreddy6080/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
