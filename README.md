@@ -19,6 +19,7 @@
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Sumithreddy6080/DSA-/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/1764-maximum-repeating-substring) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumithreddy6080/DSA-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Sumithreddy6080/DSA-/tree/master/1894-merge-strings-alternately) |
@@ -46,6 +47,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumithreddy6080/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Sumithreddy6080/DSA-/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Sumithreddy6080/DSA-/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
