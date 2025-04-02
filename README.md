@@ -47,6 +47,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumithreddy6080/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sumithreddy6080/DSA-/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Sumithreddy6080/DSA-/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
