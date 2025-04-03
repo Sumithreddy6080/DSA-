@@ -38,6 +38,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumithreddy6080/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumithreddy6080/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/Sumithreddy6080/DSA-/tree/master/0961-long-pressed-name) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -127,4 +130,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
