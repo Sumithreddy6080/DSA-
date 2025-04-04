@@ -35,6 +35,7 @@
 | [0141-linked-list-cycle](https://github.com/Sumithreddy6080/DSA-/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Sumithreddy6080/DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 ## Enumeration
