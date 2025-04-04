@@ -56,6 +56,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sumithreddy6080/DSA-/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Sumithreddy6080/DSA-/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0838-design-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
