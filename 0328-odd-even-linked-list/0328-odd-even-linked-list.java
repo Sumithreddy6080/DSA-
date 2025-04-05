@@ -14,17 +14,15 @@ class Solution {
         ListNode h1 = head;
         ListNode h2 = head.next;
         ListNode even = h2;
-        while(h1!=null && h2 !=null){
+        while(h2!=null && h2.next !=null){
             h1.next = h2.next;
             h1= h1.next;
-            if(h1 !=null){
             h2.next = h1.next;
             h2 = h2.next;
-            }
         }
-        ListNode tail =head;
-        while(tail.next != null) tail = tail.next;
-        tail.next = even;
+        // ListNode tail =head;
+        // while(tail.next != null) tail = tail.next;
+        h1.next = even;
         return head;
     }
 }
