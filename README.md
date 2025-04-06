@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sumithreddy6080/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumithreddy6080/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -88,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Sumithreddy6080/DSA-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+| [0445-add-two-numbers-ii](https://github.com/Sumithreddy6080/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
@@ -147,6 +149,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sumithreddy6080/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
