@@ -59,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sumithreddy6080/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumithreddy6080/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Sumithreddy6080/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumithreddy6080/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
@@ -115,11 +116,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sumithreddy6080/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sumithreddy6080/DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumithreddy6080/DSA-/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/Sumithreddy6080/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0838-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sumithreddy6080/DSA-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
