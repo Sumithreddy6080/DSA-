@@ -40,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/Sumithreddy6080/DSA-/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumithreddy6080/DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Stack
 |  |
@@ -166,6 +167,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumithreddy6080/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
