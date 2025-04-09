@@ -42,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumithreddy6080/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sumithreddy6080/DSA-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumithreddy6080/DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumithreddy6080/DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Stack
 |  |
@@ -133,6 +134,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sumithreddy6080/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumithreddy6080/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sumithreddy6080/DSA-/tree/master/1019-squares-of-a-sorted-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sumithreddy6080/DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sumithreddy6080/DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Enumeration
 |  |
